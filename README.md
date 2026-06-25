@@ -5,7 +5,7 @@
 
 Official PyTorch implementation of **CF-NODE**, a Test-Time Adaptation (TTA) framework for improving domain robustness under domain shift in diabetic retinopathy grading through counterfactual lesion node editing.
 
-> **IEEE Access (Under Review)**
+> **CF-NODE: Counterfactual Spatial Node Intervention for Test-Time Adaptation in Diabetic Retinopathy Grading**
 
 <p align="center">
   <img width="241" height="355" alt="image" src="https://github.com/user-attachments/assets/3e8f4aa8-e361-48f7-b2d1-4eb3e513f4cc" />
